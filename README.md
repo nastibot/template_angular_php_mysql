@@ -1,3 +1,3 @@
 # Full Angular App 🐳
 
-Dockerizada Full Stack App con Angular, Apache PHP y MySQL.
+Dockerized Full Stack Angular App with Apache PHP & MySQL Template.
